@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notepad</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Title_field">Enter Title Here</string>
+    <string name="Text_field">Enter Text Here</string>
+    <string name="Recent_Docs">Recent Documents</string>
+    <string name="New_Doc">New</string>
+    <string name="Save_button">Save</string>
+    <string name="Save_As_Button">Save As</string>
+    <string name="Qucik_note">Or Just Add Quick Note</string>
+    <string name="backgroundcolor">Background Color</string>
+    <string name="textcolor">Text Color</string>
+    <string name="textsize">Text Size</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="exit">Exit</string>
+    <string name="recent">Recent Documents</string>
+    <string name="title_activity_secondpageactivity">MainActivity</string>
+    <string name="dummyText">Dummy Text Here</string>
+    <string name="save_as">Save file as:</string>
+    <string name="discard">Discard</string>
+
+</resources>
